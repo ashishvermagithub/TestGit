@@ -2,8 +2,8 @@
 <html>
 <head>
 <title> "hello world" <\title>
+<\head>
 <body>
 i am ashish verma 
 <\body>
-<\head>
 <\html>
